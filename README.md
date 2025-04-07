@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Shadeonic/Shadeonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Shadeonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on nothing special
+🌱 I’m currently learning Java, Python and how to use Git and GitHub
+😄 Pronouns: Shadeonic
+⚡ Fun fact: Name inspired by gods
