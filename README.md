@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 <br>
 
 <!--
 **Shadeonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on nothing special
-🌱 I’m currently learning Java, Python and how to use Git and GitHub
-😄 Pronouns: Shadeonic
-⚡ Fun fact: Name inspired by gods
+🔭 I’m currently working on nothing special <br>
+🌱 I’m currently learning Java, Python and how to use Git and GitHub <br>
+😄 Pronouns: Shadeonic <br>
+⚡ Fun fact: Name inspired by gods <br>
