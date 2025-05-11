@@ -13,6 +13,6 @@
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on nothing special <br>
-🌱 I’m currently learning Java, Python and how to use Git and GitHub <br>
+🌱 I’m currently learning Unity <br>
 😄 Pronouns: Shadeonic <br>
 ⚡ Fun fact: Name inspired by gods <br>
