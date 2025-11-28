@@ -13,6 +13,6 @@
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on nothing special <br>
-🌱 I’m currently learning HTML, CSS and SQL <br>
+🌱 I’m currently learning HTML, CSS, SQL, React, Express and TailwindCSS<br>
 😄 Pronouns: Shadeonic <br>
 ⚡ Fun fact: Name inspired by gods <br>
