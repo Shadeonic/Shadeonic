@@ -12,7 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on nothing special <br>
-🌱 I’m currently learning SQL and PHP<br>
+🔭 I’m currently working on my qualification exam project <br>
+🌱 I’m currently learning how to build Unity games for the Android platform <br>
 😄 Pronouns: Shadeonic <br>
 ⚡ Fun fact: Name inspired by gods <br>
